@@ -8,6 +8,5 @@ Dataset contains shopping information from 10 different shopping malls between 2
 
 <h2>Dashboard with Excel</h2>
 - Dashboard_sumarize: Show the information of incomes by category items with all shopping Malls and how many percentage it contributed to all revenue.</br>
-- Dashboard_Malls: Show the information of income that specified by shopping Malls name and how many items was bought category by genders to find out.</br>
-the habits of shopping of each gender, morever we can see the most items was bought over 3 years.</br>
+- Dashboard_Malls: Show the information of income that specified by shopping Malls name and how many items was bought category by genders to find out the habits of shopping of each gender, morever we can see the most items was bought over 3 years.</br>
 - Dashboard_Age: Show the customers group by age. By using line chart, we can focus to each group customer's age and provide them a good services to stimulating customers consumption.</br>
